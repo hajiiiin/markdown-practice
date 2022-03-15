@@ -14,5 +14,12 @@ jusuck ieyong
 $\frac{1}{n} \sum_{i=1}^{n} x_{i}$
 
 * 1a
+* oing
+
+
 + 2b
++ plus 
+
+
 - 3c
+- mmm
