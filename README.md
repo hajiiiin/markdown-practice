@@ -18,7 +18,7 @@ $\frac{1}{n} \sum_{i=1}^{n} x_{i}$
 
 
 + 2b
-+ plus 
++ plus[^1]
 
 
 - 3c
